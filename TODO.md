@@ -1,0 +1,6 @@
+- independent volume control A and B channel
+- argument for crossover frequency
+- detect which CRAM is currently active
+- separate config file
+- sysV and systemd startup scripts
+- ...
